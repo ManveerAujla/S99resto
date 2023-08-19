@@ -1,0 +1,42 @@
+  body {
+      background-color:Black;  }
+
+    h1 {
+      font-family: Tilt Prism, sans-serif, verdana;
+    
+      color: rgb(214, 1, 1);
+      text-align: center;
+
+    }
+    #res {
+      font-family: Tilt Prism, sans-serif, verdana;
+    
+      color: rgb(255, 255, 255);
+      text-align: center;
+
+    }
+    p {
+      font-family: sans-serif Mukta, Playfair Display;
+      font-size: 20px;
+      color: rgb(255, 255, 255);
+    
+    }
+
+   #Food {
+    color:goldenrod ;
+   }
+   h2 {
+    font-family: Tilt Prism, sans-serif, verdana;
+  
+    color:white;
+    text-align: center;
+
+   }
+
+   #pic{
+    width: 500px;
+   
+    float: left;
+    margin-left: 500px;
+
+   }
