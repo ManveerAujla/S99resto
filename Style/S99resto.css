@@ -35,10 +35,6 @@
 
    #pic{
        width: 400px;
-     left: 50px;
-    top: 50px;
-    right: 50px;
     position: relative;
-    bottom: 50px;
 
    }
