@@ -34,7 +34,8 @@
    }
 
    #pic{
-       width: 400px;
-    position: relative;
+      width: 300px;
+    
+    position: static;
 
    }
