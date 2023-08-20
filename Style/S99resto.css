@@ -34,9 +34,11 @@
    }
 
    #pic{
-    width: 500px;
-   
-    float: left;
-    margin-left: 25px;
+       width: 400px;
+     left: 50px;
+    top: 50px;
+    right: 50px;
+    position: relative;
+    bottom: 50px;
 
    }
